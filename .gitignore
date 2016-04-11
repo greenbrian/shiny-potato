@@ -1,0 +1,12 @@
+
+# General files to ignore
+#
+*.class
+*.ear
+*.war
+*.log
+*.DS_Store
+notes.txt
+
+#ignore Vagrant generated directories
+.vagrant
